@@ -1,0 +1,201 @@
+.logo{
+height: 40px;
+}   
+.login{
+position: absolute;
+right: 30%;
+top: 1%;
+color: black;
+
+}         
+.login:hover{
+    color: green;
+    text-decoration: none;
+}
+.signup{
+    position: absolute;
+    right: 20%;
+    top: 1%;
+    color: black;
+}
+.signup:hover{
+    color: green;
+    text-decoration: none;
+}
+li{
+ display: inline;
+ margin-right: 20px;   
+}
+ul{
+background-color: rgb(221, 218, 218);
+}
+.how{
+position: absolute;
+right: 40%;
+top: 1%; 
+color: black 
+}    
+.how:hover{
+color: green;
+text-decoration: none;
+}
+.job{
+ position: absolute;
+ right: 9%;
+ top: 0.5%;
+ color: #fff;
+ background-color: #37a000;
+ width: 100px;
+ border-radius: 1px;
+ padding: 5px;
+
+}
+.job:hover{
+    color: white;
+    text-decoration: none;    
+    background-color: darkgreen;
+}
+.ceo{
+ width: 100%;
+ height: 60%;
+ 
+ 
+}
+.mobile {
+width: 100%;
+display:inline-block;
+
+}    
+.design{
+width: 100%;
+display: inline-table;
+}
+.writing{
+width: 100%;    
+}
+.sales{
+width: 100%;    
+}
+.web{
+color: black;
+font-size: 13px;
+}
+.mobile2{
+color: black ;
+font-size: 13px;  
+}
+.design2{
+color: black ; 
+font-size: 13px;
+}
+.writing2{
+color: black ; 
+font-size: 13px;
+}
+.admin{
+color: black ; 
+font-size: 13px;
+}
+.customer{
+color: black; 
+font-size: 13px;  
+}
+.marketing{
+color: black; 
+font-size: 13px;
+}
+.accounting{
+color: black;  
+font-size: 13px;
+}
+.categories{
+ color: black; 
+ font-size: 13px;  
+}
+.table{
+display:inline;
+margin-right: 50px; 
+}
+.f{
+color: black;
+}
+.f:hover{
+text-decoration: none;
+color: black; 
+}
+.u{
+color: black;    
+}
+.u:hover{
+    text-decoration: none;
+    color: black; 
+    }
+.c{
+color: black;    
+}
+.c:hover{
+    text-decoration: none;
+    color: black; 
+    }
+.k{
+color: black;    
+}
+.k:hover{
+    text-decoration: none;
+    color: black; 
+    }
+.o{
+color: black;    
+}
+.o:hover{
+    text-decoration: none;
+    color: black; 
+    }
+.ff{
+color: black;    
+}
+.ff:hover{
+    text-decoration: none;
+    color: black; 
+    }
+.all{
+margin: -2px;
+height: 34px;        
+    }
+ .container{
+color: white;
+font-size: 120%;     
+position: absolute;
+top: 25%     
+ }
+ .bottom{
+font-size: 180%;
+font-family: 'Courier New', Courier, monospace;     
+ }   
+ .left{
+    font-size: 180%;
+    font-family: 'Courier New', Courier, monospace;     
+     }  
+ .line2{
+    font-size: 80%;
+   font-family: 'Times New Roman', Times, serif;      
+}    
+.life{
+    font-size: 80%;
+    font-family: 'Times New Roman', Times, serif;     
+     } 
+.live{
+    text-decoration: none;
+    color: white;
+    background-color: #37a000;
+    width: 100px;
+    border-radius: 1px;
+    padding: 5px;
+    margin-left: 80px;
+    
+    }   
+.live:hover{ 
+background-color: darkgreen;               
+color: bisque;
+text-decoration: none;
+}

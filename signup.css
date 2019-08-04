@@ -1,0 +1,65 @@
+.pointer{
+    height: 40px;
+   }
+.heading{
+position: absolute;
+right: 45px;
+top: 2px;    
+}   
+.put{
+    position: absolute;
+    right: 24ex;
+    top: 23px;       
+}
+.lol{
+    text-align: center;
+    border: 2px rgb(238, 237, 236) solid;
+    height: 300px;
+    width: 500px;   
+    background-color: white;
+    text-align: center;
+    margin: 80px 10px 100px 500px;    
+}
+.fname{
+background-color: rgb(211, 216, 216)  ;  
+height: 35px;
+width: 200px;
+}
+.lname{
+background-color: rgb(211, 216, 216) ;    
+width: 200px;
+height: 35px;
+}
+.email{
+background-color: rgb(211, 216, 216) ;
+height: 35px;
+width: 200px;      
+}
+.pic7{
+width: 95%;    
+position: absolute;
+left: 12pt;
+bottom: 0pt;
+border: 1px solid rgb(211, 216, 216);
+padding: 50px;
+background-color: white;    
+margin: 0px 100px 0px -40px;
+}
+body{
+background-color: rgb(74, 101, 150);   
+}
+header{
+background-color: white;
+margin: -10px -10px 5px -10px    
+}
+.meup{
+    color: white;
+    background-color: green;
+    width: 50px;
+    font-size: 18px;   
+    padding:11px 28px;
+    text-decoration: none;
+}
+.meup:hover{
+  background-color: darkgreen;  
+}

@@ -1,0 +1,73 @@
+body{
+background-color:  rgb(74, 101, 150);       
+}
+
+.pointer{
+    height: 40px;
+   }
+.lol{
+    text-align: center;
+    border: 2px rgb(238, 237, 236) solid;
+    height: 580px;
+    width: 400px;   
+    background-color: white;
+    text-align: center;
+    margin: 80px 10px 500px 550px;    
+}    
+.country{
+width: 250px;
+height: 30px;
+background-color: rgb(252, 248, 245);    
+}
+.hire{
+    color: rgb(12, 7, 7);
+    background-color: rgb(216, 216, 216);
+    width: 50px;
+    font-size: 18px;   
+    padding:8px 25px;
+    text-decoration: none;    
+}
+.hire:hover{
+background-color: darkcyan;    
+}
+.hire2:hover{
+    background-color: darkcyan;    
+    }
+.hire2{
+    color: rgb(12, 10, 10);
+    background-color: rgb(216, 216, 216);
+    width: 50px;
+    font-size: 18px;   
+    padding:8px 25px;
+    text-decoration: none;    
+}
+.heading{
+position: absolute;
+right: 45ex;
+top: 2px;
+}
+.put{
+    position: absolute;
+    right: 24ex;
+    top: 23px;
+}    
+header{
+    background-color: white;
+    margin: -10px -10px 5px -10px    
+}
+.meup{
+        color: white;
+        background-color: green;
+        width: 50px;
+        font-size: 18px;   
+        padding:11px 28px;
+        text-decoration: none;
+    }
+    .meup:hover{
+          background-color: darkgreen;    
+    }
+    
+
+    
+
+    
